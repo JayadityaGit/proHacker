@@ -6,10 +6,10 @@ import { useForm } from "react-hook-form"
 import {
   Form,
   FormControl,
-  FormDescription,
+
   FormField,
   FormItem,
-  FormLabel,
+
   FormMessage,
 } from "@/components/ui/form"
 
@@ -18,7 +18,7 @@ import {
   DialogContent,
   DialogDescription,
   DialogHeader,
-  DialogTitle,
+
   DialogTrigger,
 } from "@/components/ui/dialog"
 
@@ -34,7 +34,7 @@ const Stuff = () => {
 
   const [aiResponse, setAiResponse] = useState("")
 
-  const [isLoading, setIsLoading] = useState(false)
+
 
     const formSchema = z.object({
         domain: z.string().min(2,{
