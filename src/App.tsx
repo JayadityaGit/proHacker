@@ -38,10 +38,10 @@ const App = () => {
               An Attempt to ease your hackathon journey.
             </SheetDescription>
           </SheetHeader>
-          <iframe width="100%" height="200" src="https://www.youtube.com/embed/vnmZAfIMNhA?si=_EnxkG3JvFxBVG2m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <iframe width="100%" height="200" src="https://www.youtube.com/embed/60798vx7QU0?si=4sdK8VUTFCSpmsal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <iframe width="100%" height="200" src="https://www.youtube.com/embed/zut46AB8DHQ?si=cJ7OdEEb27fb3avS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <iframe width="100%" height="200" src="https://www.youtube.com/embed/Y0QBmXEylP8?si=gbZEvYW4qVfhzWAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="100%" height="200" src="https://www.youtube.com/embed/vnmZAfIMNhA?si=_EnxkG3JvFxBVG2m" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe width="100%" height="200" src="https://www.youtube.com/embed/60798vx7QU0?si=4sdK8VUTFCSpmsal" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe width="100%" height="200" src="https://www.youtube.com/embed/zut46AB8DHQ?si=cJ7OdEEb27fb3avS" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+          <iframe width="100%" height="200" src="https://www.youtube.com/embed/Y0QBmXEylP8?si=gbZEvYW4qVfhzWAy" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
         </SheetContent>
 
          
